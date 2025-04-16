@@ -54,6 +54,3 @@ This project demonstrates how to control lighting patterns using a microcontroll
 - **Press button again** → Mode 2: LEDs light up sequentially from right to left.
 - **Press button again** → Mode 3: LEDs alternate between `0xAA` and `0x55`.
 - **Press button again** → Mode 4: LEDs toggle between on and off.
-
-## License:
-This project is open source and distributed under the MIT License. Feel free to modify and use it as you like.
